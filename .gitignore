@@ -5,3 +5,5 @@ build/
 
 
 
+/.nb-gradle/
+/RiippuvuuksienInjektointi3/.nb-gradle/
